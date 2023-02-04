@@ -24,11 +24,11 @@ Secrets:
 
 Google Dorks - Cloud Storage:
 
-site:http://s3.amazonaws.com "target[.]com"
-site:http://blob.core.windows.net "target[.]com"
-site:http://googleapis.com "target[.]com"
-site:http://drive.google.com "target[.]com"
-site:http://aliyuncs.com "target[.]com"
+- site:http://s3.amazonaws.com "target[.]com"
+- site:http://blob.core.windows.net "target[.]com"
+- site:http://googleapis.com "target[.]com"
+- site:http://drive.google.com "target[.]com"
+- site:http://aliyuncs.com "target[.]com"
 
 For firebase there is nothing like that, use otx, get the last 250 results, and use firebaseExploiter utility to get potential endpoints that have read permission (/.json), download them out through curl and scan for secrets, or browse manually.
 
