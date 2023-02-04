@@ -11,6 +11,7 @@ APK Leaks:
 - https://github.com/dwisiswant0/apkleaks
 - https://github.com/arijitdirghanji/Find-Hardcoded
 - https://github.com/optiv/mobile-nuclei-templates
+- https://github.com/r00tkie/grep-pattern
 
 Secrets:
 
