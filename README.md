@@ -13,6 +13,10 @@ APK Leaks:
 - https://github.com/optiv/mobile-nuclei-templates
 - https://github.com/r00tkie/grep-pattern
 - https://github.com/m4ll0k/BBTz/blob/master/dapk.py
+- https://github.com/teknogeek/get_schemas
+- https://github.com/devkekops/checkkarlmarx
+- https://github.com/jayateertha043/apksec
+- https://github.com/sdushantha/dora
 
 Secrets:
 
