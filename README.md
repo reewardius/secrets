@@ -17,6 +17,8 @@ APK Leaks:
 - https://github.com/devkekops/checkkarlmarx
 - https://github.com/jayateertha043/apksec
 - https://github.com/sdushantha/dora
+- https://github.com/talos-security/SEBASTiAn
+- https://github.com/Cyber-Buddy/APKHunt
 
 Secrets:
 
