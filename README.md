@@ -44,6 +44,7 @@ Google Dorks - Cloud Storage:
 For firebase there is nothing like that, use otx, get the last 250 results, and use firebaseExploiter utility to get potential endpoints that have read permission (/.json), download them out through curl and scan for secrets, or browse manually.
 
 Tools for Android Pentest:
-
+```
 - https://hackmd.io/@EAn_g7N6SjWYxIeKEo4X7Q/HymJsIQyi
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
+```
