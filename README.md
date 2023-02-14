@@ -50,3 +50,15 @@ Tools for Android Pentest:
 - https://hackmd.io/@EAn_g7N6SjWYxIeKEo4X7Q/HymJsIQyi
 - https://github.com/MobSF/Mobile-Security-Framework-MobSF
 ```
+Additional
+
+```
+site:tesla.com -www -shop -share -ir -mfa
+site:pastebin.com
+site:jsfiddle.net
+site:codebeautify.org
+site:codepen.io "tesla.com"
+site:tesla.com ext:php inurl:?
+site:openbugbounty.org inurl:reports intext:"yahoo.com"
+(site:tesla.com | site:teslamotors.com) & ”choose file”
+```
