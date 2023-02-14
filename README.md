@@ -4,6 +4,7 @@ You can use all these scripts to retrieve data from the otx.alienvault.com servi
 
 Firebase Dorks:
 ```
+- Github: firebaseio.com
 - site:github.com google-services.json
 ```
 Firebase Exploiter - https://github.com/reewardius/firebaseExploiter
