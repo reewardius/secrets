@@ -17,6 +17,7 @@ Firebase Exploiter - https://github.com/reewardius/firebaseExploiter
 
 APK Leaks: 
 ```
+- Recon https://github.com/hanhanhanz/apkframe
 - https://github.com/arxenix/firebase-scanner
 - https://github.com/shivsahni/FireBaseScanner
 - https://github.com/dwisiswant0/apkleaks
