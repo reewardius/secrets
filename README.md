@@ -1,5 +1,11 @@
 # secrets
 
+Mobile-Nuclei-Templates & Apktool
+```
+> find . -iname "*.apk" -exec apktool d -o {}_out {} \;
+> nuclei -target /path-to-allapks/ -t /path-to-tamplates/mobile-nuclei-templates/
+```
+
 You can use all these scripts to retrieve data from the otx.alienvault.com service and search for secrets in various storages, all popular clouds and firebase are collected.
 
 Firebase Dorks:
