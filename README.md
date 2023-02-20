@@ -2,6 +2,7 @@
 
 Mobile-Nuclei-Templates & Apktool
 ```
+> python3 dapk.py "paypal" "paypal-apk"
 > find . -iname "*.apk" -exec apktool d -o {}_out {} \;
 > nuclei -target /path-to-allapks/ -t /path-to-tamplates/mobile-nuclei-templates/
 ```
