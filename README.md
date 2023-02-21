@@ -24,7 +24,6 @@ APK Leaks:
 - https://github.com/arijitdirghanji/Find-Hardcoded
 - https://github.com/optiv/mobile-nuclei-templates
 - https://github.com/r00tkie/grep-pattern
-- https://github.com/m4ll0k/BBTz/blob/master/dapk.py
 - https://github.com/teknogeek/get_schemas
 - https://github.com/devkekops/checkkarlmarx
 - https://github.com/jayateertha043/apksec
@@ -67,5 +66,5 @@ site:codebeautify.org
 site:codepen.io "tesla.com"
 site:tesla.com ext:php inurl:?
 site:openbugbounty.org inurl:reports intext:"yahoo.com"
-(site:tesla.com | site:teslamotors.com) & ”choose file”
+(site:tesla.com | site:teslamotors.com) & "choose file"
 ```
