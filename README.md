@@ -37,6 +37,8 @@ Secrets:
 - https://github.com/toufik-airane/leakin
 - https://github.com/valayDave/tell-me-your-secrets
 - https://github.com/Yelp/detect-secrets
+- https://github.com/Skyscanner/whispers
+- https://github.com/disruptops/cred_scanner
 - https://github.com/effortlessdevsec/ApkRecon
 - https://www.youtube.com/watch?v=a255VGZn8dk
 - https://youtu.be/6-M_7O3A8AI
