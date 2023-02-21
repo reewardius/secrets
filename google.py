@@ -1,3 +1,5 @@
+# https://www.googleapis.com/storage/v1/b/{{bucket_name}}
+
 import requests
 
 def get_hostnames(domain):
