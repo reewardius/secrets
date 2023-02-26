@@ -30,6 +30,7 @@ APK Leaks:
 - https://github.com/sdushantha/dora
 - https://github.com/talos-security/SEBASTiAn
 - https://github.com/Cyber-Buddy/APKHunt
+- https://github.com/utkarsh24122/apknuke
 ```
 Secrets:
 ```
